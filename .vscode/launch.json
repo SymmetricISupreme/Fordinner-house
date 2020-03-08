@@ -1,0 +1,105 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - er20",
+            "request": "launch",
+            "mainClass": "er20",
+            "projectName": "IntelligenceTax_4c07ac71"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - er19",
+            "request": "launch",
+            "mainClass": "er19",
+            "projectName": "IntelligenceTax_4c07ac71"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test_fibonacci",
+            "request": "launch",
+            "mainClass": "test_fibonacci",
+            "projectName": "IntelligenceTax_4c07ac71"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test_exR1",
+            "request": "launch",
+            "mainClass": "test_exR1",
+            "projectName": "IntelligenceTax_4c07ac71"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test_histogram",
+            "request": "launch",
+            "mainClass": "test_histogram",
+            "projectName": "IntelligenceTax_4c07ac71"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - transposition",
+            "request": "launch",
+            "mainClass": "transposition",
+            "projectName": "IntelligenceTax_4c07ac71"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - tocomplete1",
+            "request": "launch",
+            "mainClass": "tocomplete1",
+            "projectName": "IntelligenceTax_4c07ac71"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - checkprint",
+            "request": "launch",
+            "mainClass": "checkprint",
+            "projectName": "IntelligenceTax_4c07ac71"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - checkequal",
+            "request": "launch",
+            "mainClass": "checkequal",
+            "projectName": "IntelligenceTax_4c07ac71"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ex1",
+            "request": "launch",
+            "mainClass": "ex1",
+            "projectName": "IntelligenceTax_4c07ac71"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FlipsMax",
+            "request": "launch",
+            "mainClass": "FlipsMax",
+            "projectName": "IntelligenceTax_4c07ac71"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Average",
+            "request": "launch",
+            "mainClass": "Average",
+            "projectName": "IntelligenceTax_4c07ac71"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinarySearch<IntelligenceTax_4c07ac71>",
+            "request": "launch",
+            "mainClass": "BinarySearch",
+            "projectName": "IntelligenceTax_4c07ac71"
+        }
+    ]
+}
